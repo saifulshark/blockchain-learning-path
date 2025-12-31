@@ -157,8 +157,7 @@ List of tools curated by Protofire team to better apply best practices to the Pr
 - [Understanding Blockchain function](https://www.youtube.com/watch?v=RplnSVTzvnU) - Say hello to the decentralized economy. (Est. time: 15 minutes)
 
 #### Conferences
--[TedTalk](https://www.tedtalk.com/blockchain/web3) - Talk on Blockchain and web3 details.
+-[TedTalk](https://www.tedtalk.com/blockchain/web3) - Add Talk on Blockchain and web3 details.
 
 #### Videos
 
--[DeFi from Finematics](https://www.youtube.com/c/Finematics/videos) - Educational videos on DeFi (Decentralized Finance).
